@@ -1,0 +1,17 @@
+/Users/carloshcarniatto/Dev/C#/Intricom/Backend/HotelSystem/HotelSystem.Application.Infrastructure/bin/Debug/net8.0/HotelSystem.Application.Infrastructure.deps.json
+/Users/carloshcarniatto/Dev/C#/Intricom/Backend/HotelSystem/HotelSystem.Application.Infrastructure/bin/Debug/net8.0/HotelSystem.Application.Infrastructure.dll
+/Users/carloshcarniatto/Dev/C#/Intricom/Backend/HotelSystem/HotelSystem.Application.Infrastructure/bin/Debug/net8.0/HotelSystem.Application.Infrastructure.pdb
+/Users/carloshcarniatto/Dev/C#/Intricom/Backend/HotelSystem/HotelSystem.Application.Infrastructure/bin/Debug/net8.0/HotelSystem.Application.Domain.dll
+/Users/carloshcarniatto/Dev/C#/Intricom/Backend/HotelSystem/HotelSystem.Application.Infrastructure/bin/Debug/net8.0/HotelSystem.Application.Entities.dll
+/Users/carloshcarniatto/Dev/C#/Intricom/Backend/HotelSystem/HotelSystem.Application.Infrastructure/bin/Debug/net8.0/HotelSystem.Application.Domain.pdb
+/Users/carloshcarniatto/Dev/C#/Intricom/Backend/HotelSystem/HotelSystem.Application.Infrastructure/bin/Debug/net8.0/HotelSystem.Application.Entities.pdb
+/Users/carloshcarniatto/Dev/C#/Intricom/Backend/HotelSystem/HotelSystem.Application.Infrastructure/obj/Debug/net8.0/HotelSystem.Application.Infrastructure.csproj.AssemblyReference.cache
+/Users/carloshcarniatto/Dev/C#/Intricom/Backend/HotelSystem/HotelSystem.Application.Infrastructure/obj/Debug/net8.0/HotelSystem.Application.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carloshcarniatto/Dev/C#/Intricom/Backend/HotelSystem/HotelSystem.Application.Infrastructure/obj/Debug/net8.0/HotelSystem.Application.Infrastructure.AssemblyInfoInputs.cache
+/Users/carloshcarniatto/Dev/C#/Intricom/Backend/HotelSystem/HotelSystem.Application.Infrastructure/obj/Debug/net8.0/HotelSystem.Application.Infrastructure.AssemblyInfo.cs
+/Users/carloshcarniatto/Dev/C#/Intricom/Backend/HotelSystem/HotelSystem.Application.Infrastructure/obj/Debug/net8.0/HotelSystem.Application.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/carloshcarniatto/Dev/C#/Intricom/Backend/HotelSystem/HotelSystem.Application.Infrastructure/obj/Debug/net8.0/HotelSystem.Application.Infrastructure.csproj.CopyComplete
+/Users/carloshcarniatto/Dev/C#/Intricom/Backend/HotelSystem/HotelSystem.Application.Infrastructure/obj/Debug/net8.0/HotelSystem.Application.Infrastructure.dll
+/Users/carloshcarniatto/Dev/C#/Intricom/Backend/HotelSystem/HotelSystem.Application.Infrastructure/obj/Debug/net8.0/refint/HotelSystem.Application.Infrastructure.dll
+/Users/carloshcarniatto/Dev/C#/Intricom/Backend/HotelSystem/HotelSystem.Application.Infrastructure/obj/Debug/net8.0/HotelSystem.Application.Infrastructure.pdb
+/Users/carloshcarniatto/Dev/C#/Intricom/Backend/HotelSystem/HotelSystem.Application.Infrastructure/obj/Debug/net8.0/ref/HotelSystem.Application.Infrastructure.dll

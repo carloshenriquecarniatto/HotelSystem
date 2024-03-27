@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EDxdr47QeXnCYXEVkPDTdhAUFQPknF8Od1+rRKbdogU=",
+  "Source": "HotelSystem.Api",
+  "BasePath": "_content/HotelSystem.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
